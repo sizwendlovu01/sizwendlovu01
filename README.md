@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, I'm Sizwe Ndlovu</h1>
 <h3 align="center">🚀 Passionate Full Stack Engineer | Building Scalable Solutions with Modern Tech Stack</h3>
 
-https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="300" height="300">
+</p>
 
 - 🔭 I’m currently working on **Invoice Application**
 
@@ -27,6 +29,6 @@ https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sizwendlovu01&show_icons=true&locale=en" alt="sizwendlovu01" /></p>
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&background=000000E2&center=true&vCenter=true&width=435&lines=Let's+Connect!!" alt="Typing SVG" /></a>
 
 ###
