@@ -1,5 +1,7 @@
-<h1 align="center">Hi there👋, I'm'm Sizwe Ndlovu</h1>
+<h1 align="center">Hi there👋, I'm Sizwe Ndlovu</h1>
 <h3 align="center">🚀 Passionate Full Stack Engineer | Building Scalable Solutions with Modern Tech Stack</h3>
+
+https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif
 
 - 🔭 I’m currently working on **Invoice Application**
 
