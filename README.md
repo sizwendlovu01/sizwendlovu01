@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thandoxsndlovu@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://beige-coretta-49.tiiny.site)
+- 📄 Know about my experiences [my resume](https://sizweremuse.tiiny.site)
 
 - ⚡ Fun fact **I love reading books.**
 
